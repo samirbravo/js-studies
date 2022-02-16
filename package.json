@@ -1,0 +1,22 @@
+{
+  "name": "js-studies",
+  "version": "1.0.0",
+  "description": "JS studies and other stuff I've read",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samirbravo/js-studies.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Samir Bravo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samirbravo/js-studies/issues"
+  },
+  "homepage": "https://github.com/samirbravo/js-studies#readme"
+}
